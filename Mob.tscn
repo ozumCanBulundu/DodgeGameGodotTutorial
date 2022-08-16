@@ -39,7 +39,6 @@ script = ExtResource( 7 )
 scale = Vector2( 0.75, 0.75 )
 frames = SubResource( 1 )
 animation = "walk"
-frame = 1
 playing = true
 __meta__ = {
 "_edit_group_": true
